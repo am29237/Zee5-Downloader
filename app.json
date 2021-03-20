@@ -1,5 +1,5 @@
 {
-  "name": "Zee5 DL",
+  "name": "TeleRoid Zee5",
   "description": "Zee5 Downloader",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/TroJanzHEX/Zee5-Downloader",
+  "repository": "https://github.com/P-Phreak/Zee5-Downloader",
   
   "env": {
     "WEBHOOK": {
@@ -28,7 +28,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": "1287407305"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
