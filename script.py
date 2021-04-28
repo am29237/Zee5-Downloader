@@ -1,8 +1,8 @@
 class script(object):
 
-    START_TEXT = """<b>Hai ,
+    START_TEXT = """<b>Hello🙏 ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support.
+This is A simple Zee5 link downloader bot With Permanent Thumbnail Support💯. 
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
@@ -11,25 +11,31 @@ Currently I'm in beta mode 🥺, If found any bugs, report @TeleRoid14 !
 Click <i>/help</i> for more details....</b>"""
 
 
-    HELP_USER = """<b>Hai, Follow these steps..</b>
+    HELP_USER = """<b>Hey!Follow these steps...To Get Know More about Me</b>
  
 1. Send Custom Thumbnail (It will be saved permenantly!)
 
 2. Send your zee5 url and select desired option.
 
+3. And, After that wait till Uploading with patience
 
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """🛑<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
 
-⭕️<b>Creater :</b> @TeleRoidGroup
+⭕️<b>Creator :</b> @PredatorHackerzZ_bot
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>
+
+⭕<b>Support Group :</b> <a href='https://t.me/TeleRoid14'> Check Here </a>
+
+⭕<b> TeleRoid Botlist :</b> @TheTeleRoid
+"""
 
 
 
@@ -45,7 +51,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
-    UPLOAD_START = "Uploading Now ⬆️"
+    UPLOAD_START = "Uploading Now your Video.....📤"
     
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
