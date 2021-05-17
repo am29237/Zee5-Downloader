@@ -1,6 +1,6 @@
 class script(object):
 
-    START_TEXT = """<b>Hello🙏 ,
+    START_TEXT = """<b>𝐇𝐞𝐲! 🙋‍♂️ ,
     
 ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴢᴇᴇ5 ʟɪɴᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ💯. 
 
@@ -24,19 +24,19 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
 
-<b>👨‍💻 Creator :</b> @PredatorHackerzZ_bot
+<b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @ᴘʀᴇᴅᴀᴛᴏʀʜᴀᴄᴋᴇʀᴢᴢ_ʙᴏᴛ
 
-<b>🈂 Language :</b> <code>Python3</code>
+<b>🈂 ʟᴀɴɢᴜᴀɢᴇ :</b> <ᴄᴏᴅᴇ>ᴘʏᴛʜᴏɴ3</ᴄᴏᴅᴇ>
 
-<b>📚 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+<b>📚 ʟɪʙʀᴀʀʏ :</b> <a ʜʀᴇꜰ='ʜᴛᴛᴘꜱ://ᴅᴏᴄꜱ.ᴘʏʀᴏɢʀᴀᴍ.ᴏʀɢ/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a> 
 
-<b>📌 Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>
+<b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a ʜʀᴇꜰ='ʜᴛᴛᴘꜱ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ᴘ-ᴘʜʀᴇᴀᴋ/ᴢᴇᴇ5-ᴅᴏᴡɴʟᴏᴀᴅᴇʀ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-<b>Support Group :</b> <a href='https://t.me/TeleRoid14'> Check Here </a>
+<b>ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :</b> <a ʜʀᴇꜰ='ʜᴛᴛᴘꜱ://ᴛ.ᴍᴇ/ᴛᴇʟᴇʀᴏɪᴅ14'> ᴄʜᴇᴄᴋ ʜᴇʀᴇ </a>
 
-<b> TeleRoid Group :</b> @TheTeleRoid
+<b> ᴛᴇʟᴇʀᴏɪᴅ ɢʀᴏᴜᴘ :</b> @ᴛʜᴇᴛᴇʟᴇʀᴏɪᴅ
 
-<b> TeleGram Botlist :</b> @TGRobot_List
+<b> ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛʟɪꜱᴛ :</b> @ᴛɢʀᴏʙᴏᴛ_ʟɪꜱᴛ
 """
 
 
