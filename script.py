@@ -6,20 +6,17 @@ class script(object):
 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴢᴇᴇ5 ʟɪɴᴋ, ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ.
 
-ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @ᴛᴇʟᴇʀᴏɪᴅ14 !
+ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @TeleRoid4 !
 
 Click <i>/help</i> for more details....</b>"""
 
 
-    HELP_USER = """<b>Hey!Follow these steps...To Get Know More about Me</b>
+    HELP_USER = """<b> ʜᴇʏ!ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ...ᴛᴏ ɢᴇᴛ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>
  
-1. Send Custom Thumbnail (It will be saved permenantly!)
-
-2. Send your zee5 url and select desired option.
-
-3. And, After that wait till Uploading with patience
-
-NOTE: Download may take some time! So please wait for it to complete!"""
+1. ꜱᴇɴᴅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ (ɪᴛ ᴡɪʟʟ ʙᴇ ꜱᴀᴠᴇᴅ ᴘᴇʀᴍᴇɴᴀɴᴛʟʏ!)
+2. ꜱᴇɴᴅ ʏᴏᴜʀ ᴢᴇᴇ5 ᴜʀʟ ᴀɴᴅ ꜱᴇʟᴇᴄᴛ ᴅᴇꜱɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
+3. ᴀɴᴅ, ᴀꜰᴛᴇʀ ᴛʜᴀᴛ ᴡᴀɪᴛ ᴛɪʟʟ ᴜᴘʟᴏᴀᴅɪɴɢ ᴡɪᴛʜ ᴘᴀᴛɪᴇɴᴄᴇ
+ɴᴏᴛᴇ: ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴀʏ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ! ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ꜰᴏʀ ɪᴛ ᴛᴏ ᴄᴏᴍᴘʟᴇᴛᴇ!"""
 
 
     ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
@@ -49,13 +46,13 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @PredatorHackerzZ_bot"
+    UPGRADE_TEXT = " Nothing Is Here To Upgrade.....\n\nOnly Use Our Bots and Report Bugs to Group\n@TeleRoid14"
     
     DOWNLOAD_START = "Trying to download to my server... Wait For Some Time 😇"
     
-    UPLOAD_START = "Uploading Now your Video.....📤"
+    UPLOAD_START = "Uploading Now your Video to TeleGram .....📤"
     
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**Thank you for Using Me!! ❤️**"
     
@@ -69,5 +66,5 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TeleRoid14</b>"
     
-    TIMEOUT = "<b><i>Sorry 😒 for the delay. It'll help reduce the flood wait of bot</i> 😇\n\nWait for {} sec and try again.\n\n@TheTeleRoid</b>"
+    TIMEOUT = "<b><i>Sorry 😒! for the delay. It'll help reduce the flood wait of bot to work fine in Future</i> 😇\n\nWait for {} sec and try again.\n\n@TheTeleRoid</b>"
     
