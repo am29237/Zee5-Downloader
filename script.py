@@ -2,11 +2,11 @@ class script(object):
 
     START_TEXT = """<b>Hello🙏 ,
     
-This is A simple Zee5 link downloader bot With Permanent Thumbnail Support💯. 
+ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴢᴇᴇ5 ʟɪɴᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ💯. 
 
-Please send me any Zee5 link, I can upload it to telegram as File/Video.
+ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴢᴇᴇ5 ʟɪɴᴋ, ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TeleRoid14 !
+ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @ᴛᴇʟᴇʀᴏɪᴅ14 !
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -24,17 +24,19 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
 
-⭕️<b>Creator :</b> @PredatorHackerzZ_bot
+<b>👨‍💻 Creator :</b> @PredatorHackerzZ_bot
 
-⭕️<b>Language :</b> <code>Python3</code>
+<b>🈂 Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+<b>📚 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>
+<b>📌 Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>
 
-⭕<b>Support Group :</b> <a href='https://t.me/TeleRoid14'> Check Here </a>
+<b>Support Group :</b> <a href='https://t.me/TeleRoid14'> Check Here </a>
 
-⭕<b> TeleRoid Botlist :</b> @TheTeleRoid
+<b> TeleRoid Group :</b> @TheTeleRoid
+
+<b> TeleGram Botlist :</b> @TGRobot_List
 """
 
 
@@ -49,7 +51,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     UPGRADE_TEXT = "PING at @PredatorHackerzZ_bot"
     
-    DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
+    DOWNLOAD_START = "Trying to download to my server... Wait For Some Time 😇"
     
     UPLOAD_START = "Uploading Now your Video.....📤"
     
