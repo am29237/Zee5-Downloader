@@ -84,11 +84,11 @@ async def zee5_capture(bot, update):
                     
             logger.info(url)
         except:
-            await update.reply_text("There's some issue with your URL 😕", quote=True)
+            await update.reply_text("There is some issue with your Zee5 URL 😕", quote=True)
             return
             
     else:
-        await update.reply_text("I can download from Zee5 links only! Use @TeleRoid_URL_Bot for other links 😇", quote=True)
+        await update.reply_text("I can download from Zee5 links only! Use @TeleRoid_Hotstar_Bot for other links 😇", quote=True)
         return
     
     try:
@@ -189,7 +189,7 @@ async def zee5_capture(bot, update):
                 reply_to_message_id=update.message_id
             )
         else:
-            await update.reply_text("There's some issue with your URL 😕 Or may be DRM protected!", quote=True)
+            await update.reply_text("There is some issue with your Zee5 URL 😕 Or may be DRM protected!", quote=True)
             return
     except:
         await update.reply_text("Couldn't download your video!", quote=True)
@@ -424,7 +424,7 @@ async def zee5_execute(bot, update):
 
                 await bot.edit_message_text(
                     text=script.AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS,
-                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🙌🏻 SHARE ME 🙌🏻", url="tg://msg?text=%2A%2AHai%20%E2%9D%A4%EF%B8%8F%2C%2A%2A%20%0A__Today%20i%20just%20found%20out%20an%20intresting%20and%20Powerful__%20%2A%2AZee5%20Downloader%20Bot%2A%2A%20__for%20Free%F0%9F%A5%B0.__%20%20%0A%2A%2ABot%20Link%20%3A%20%40Zee5HEXBot%2A%2A%20%F0%9F%94%A5")]]),
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤖 TeleGram BotList 🤖", url="https://t.me/TGRobot_List")]]),
                     chat_id=update.message.chat.id,
                     message_id=update.message.message_id,
                     disable_web_page_preview=True
