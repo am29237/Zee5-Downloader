@@ -26,9 +26,9 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
 <b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @PredatorHackerzZ_bot
 
-<b>🈂 ʟᴀɴɢᴜᴀɢᴇ :</b> <ᴄᴏᴅᴇ>ᴘʏᴛʜᴏɴ3</ᴄᴏᴅᴇ>
+<b>🈂 ʟᴀɴɢᴜᴀɢᴇ :</b> <code>ᴘʏᴛʜᴏɴ3</code>
 
-<b>📚 ʟɪʙʀᴀʀʏ :</b> <a href='https://ᴅᴏᴄꜱ.ᴘʏʀᴏɢʀᴀᴍ.ᴏʀɢ/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a> 
+<b>📚 ʟɪʙʀᴀʀʏ :</b> <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a> 
 
 <b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a href='https://GitHub.com/P-Phreak/Zee5-Downloader>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
@@ -59,15 +59,15 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**Thank you for Using Me!! ❤️**"
     
-    SAVED_CUSTOM_THUMB_NAIL = "<b>✅Custom thumbnail Saved.\nThis thumbnail will be Permanent for all future uploads\n\nDo /delthumb to clear your thumbnail!</b>"
+    SAVED_CUSTOM_THUMB_NAIL = "<b>Custom thumbnail Saved ✅.\nThis thumbnail will be Permanent for all uploads in future\n\nDo /delthumb to delete your thumbnail!\n\n@TheTeleRoid</b>"
     
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "Custom Thumbnail deleted succesfully ❎."
     
-    SHOW_THUMB = "@TeleRoidGroup\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@TheTeleRoid\n\nUse /delthumb to clear this thumbnail."
     
-    NO_THUMB = "SAD😔 No saved thumbnails Found!!"
+    NO_THUMB = "Sorry! We have No saved thumbnails! @TheTeleRoid"
     
     CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TeleRoid14</b>"
     
-    TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
+    TIMEOUT = "<b><i>Sorry 😒 for the delay. It'll help reduce the flood wait of bot</i> 😇\n\nWait for {} sec and try again.\n\n@TheTeleRoid</b>"
     
