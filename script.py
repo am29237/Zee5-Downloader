@@ -21,13 +21,13 @@ Click <i>/help</i> for more details....</b>"""
 
     ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
 
-<b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @PredatorHackerzZ_bot
+<b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @PredatorHackerzZ
 
 <b>🈂 ʟᴀɴɢᴜᴀɢᴇ :</b> <code>ᴘʏᴛʜᴏɴ3</code>
 
 <b>📚 ʟɪʙʀᴀʀʏ :</b> <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a> 
 
-<b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a href='https://GitHub.com/P-Phreak/Zee5-Downloader>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+<b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a href='https://GitHub.com/PredatorHackerzZ/Zee5-Downloader>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 <b>ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :</b> <a href='https://t.me/TeleRoid14'> ᴄʜᴇᴄᴋ ʜᴇʀᴇ </a>
 
@@ -54,7 +54,7 @@ Click <i>/help</i> for more details....</b>"""
     
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**Thank you for Using Me!! ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**Thank you for Using Me!!\n@TheTeleRoid ❤️**"
     
     SAVED_CUSTOM_THUMB_NAIL = "<b>Custom thumbnail Saved ✅.\nThis thumbnail will be Permanent for all uploads in future\n\nDo /delthumb to delete your thumbnail!\n\n@TheTeleRoid</b>"
     
@@ -62,7 +62,7 @@ Click <i>/help</i> for more details....</b>"""
     
     SHOW_THUMB = "@TheTeleRoid\n\nUse /delthumb to clear this thumbnail."
     
-    NO_THUMB = "Sorry! We have No saved thumbnails! @TheTeleRoid"
+    NO_THUMB = "Sorry! We have No saved thumbnails!\n@TheTeleRoid"
     
     CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TeleRoid14</b>"
     
