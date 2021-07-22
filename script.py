@@ -6,7 +6,7 @@ class script(object):
 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴢᴇᴇ5 ʟɪɴᴋ, ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ.
 
-ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @TeleRoid14 !
+ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @that_introvert_guy !
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -19,19 +19,19 @@ Click <i>/help</i> for more details....</b>"""
 ɴᴏᴛᴇ: ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴀʏ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ! ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ꜰᴏʀ ɪᴛ ᴛᴏ ᴄᴏᴍᴘʟᴇᴛᴇ!"""
 
 
-    ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
+    ABOUT_TEXT = """🛑<b>My Name : @Zee5_down_dl_bot</b>
 
-<b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @PredatorHackerzZ
+<b>👨‍💻 ᴄʀᴇᴀᴛᴏʀ :</b> @that_introvert_guy
 
 <b>🈂 ʟᴀɴɢᴜᴀɢᴇ :</b> <code>ᴘʏᴛʜᴏɴ3</code>
 
 <b>📚 ʟɪʙʀᴀʀʏ :</b> <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ 1.0.7</a> 
 
-<b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a href='https://GitHub.com/PredatorHackerzZ/Zee5-Downloader>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+<b>📌 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b> 👉 <a href='https://github.com/am29237/Zee5-Downloader>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-<b>ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :</b> <a href='https://t.me/TeleRoid14'> ᴄʜᴇᴄᴋ ʜᴇʀᴇ </a>
+<b>ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :</b> <a href='https://t.me/PVX_Community_Group'> ᴄʜᴇᴄᴋ ʜᴇʀᴇ </a>
 
-<b> ᴛᴇʟᴇʀᴏɪᴅ ɢʀᴏᴜᴘ :</b> <a href='https://t.me/TeleRoidGroup'> Channel Updates </a>
+<b> PVX ɢʀᴏᴜᴘ :</b> <a href='https://t.me/PVX_Community_Group'> Channel Updates </a>
 
 <b> ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛʟɪꜱᴛ :</b> @TGRobot_List
 """
@@ -46,7 +46,7 @@ Click <i>/help</i> for more details....</b>"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = " Nothing Is Here To Upgrade.....\n\nOnly Use Our Bots and Report Bugs to Group\n@TeleRoid14"
+    UPGRADE_TEXT = " Nothing Is Here To Upgrade.....\n\nOnly Use Our Bots and Report Bugs to Group\n@that_introvert_guy"
     
     DOWNLOAD_START = "Trying to download to my server... Wait For Some Time 😇"
     
