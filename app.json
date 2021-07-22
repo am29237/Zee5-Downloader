@@ -1,5 +1,5 @@
 {
-  "name": "TeleRoid Zee5",
+  "name": "PVX ZEE5",
   "description": "Zee5 Downloader",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/P-Phreak/Zee5-Downloader",
+  "repository": "https://github.com/am29237/Zee5-Downloader",
   
   "env": {
     "WEBHOOK": {
